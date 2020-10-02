@@ -13,7 +13,7 @@ class Song
     artist.add_song(song)
     song
   end
-  
+
   Song.all
 
 end
